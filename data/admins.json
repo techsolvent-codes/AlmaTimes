@@ -1,0 +1,9 @@
+[
+  {
+    "id": "admin-1",
+    "name": "Admin",
+    "email": "admin@energdive.com",
+    "passwordHash": "$2a$10$sqSQjS8ybmVSqR.68zANoOlzeDbgUQB5GkkH8ELsmYSnrgQRvpGbq",
+    "role": "superadmin"
+  }
+]

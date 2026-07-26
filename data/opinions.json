@@ -1,0 +1,50 @@
+[
+  {
+    "id": "o1",
+    "author": "Ajay Gurao",
+    "role": "GM, Dekka India",
+    "quote": "The future of process safety lies in digitalisation and AI-driven solutions.",
+    "title": "Process Safety in the AI Era",
+    "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=200&h=200&q=80",
+    "content": "<p>Full opinion piece on AI and process safety...</p>",
+    "publishedAt": "Jun 18, 2026",
+    "createdAt": "2026-06-18T00:00:00.000Z",
+    "updatedAt": "2026-06-18T00:00:00.000Z"
+  },
+  {
+    "id": "o2",
+    "author": "Karthik Periyasamy",
+    "role": "Director, Energy Advisory",
+    "quote": "From loss to leverage — rethinking efficiency, emissions and performance in rotating equipment.",
+    "title": "Rotating Equipment Reimagined",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&h=200&q=80",
+    "content": "<p>Full opinion piece on rotating equipment efficiency...</p>",
+    "publishedAt": "Jun 17, 2026",
+    "createdAt": "2026-06-17T00:00:00.000Z",
+    "updatedAt": "2026-06-17T00:00:00.000Z"
+  },
+  {
+    "id": "o3",
+    "author": "Layla Hassan",
+    "role": "Head of Strategy, Masdar",
+    "quote": "Capital will follow grids. The next bottleneck isn't generation — it's interconnection.",
+    "title": "Grids as Capital Magnets",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=200&h=200&q=80",
+    "content": "<p>Full opinion piece on grid interconnection as capital magnet...</p>",
+    "publishedAt": "Jun 16, 2026",
+    "createdAt": "2026-06-16T00:00:00.000Z",
+    "updatedAt": "2026-06-16T00:00:00.000Z"
+  },
+  {
+    "id": "o4",
+    "author": "Rohan Bhat",
+    "role": "Partner, McKinsey Energy",
+    "quote": "Hydrogen will not scale on subsidies alone. Off-take certainty is the missing link.",
+    "title": "Hydrogen's Off-Take Problem",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&h=200&q=80",
+    "content": "<p>Full opinion piece on the hydrogen off-take challenge...</p>",
+    "publishedAt": "Jun 15, 2026",
+    "createdAt": "2026-06-15T00:00:00.000Z",
+    "updatedAt": "2026-06-15T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "r1",
+    "title": "Downstream Turning Point 2026",
+    "desc": "Quarterly outlook on global refining, petrochemicals and product margins.",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&h=1000&q=80",
+    "type": "Premium Report",
+    "publishedAt": "Jun 2026",
+    "createdAt": "2026-06-01T00:00:00.000Z",
+    "updatedAt": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "r2",
+    "title": "Global Hydrogen Tracker",
+    "desc": "Live capacity, project pipeline and policy benchmarks across regions.",
+    "image": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?auto=format&fit=crop&w=800&h=1000&q=80",
+    "type": "Premium Report",
+    "publishedAt": "Jun 2026",
+    "createdAt": "2026-06-05T00:00:00.000Z",
+    "updatedAt": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "id": "r3",
+    "title": "Battery Storage Outlook",
+    "desc": "Cost curves, chemistry shifts and grid-scale deployment trends.",
+    "image": "https://images.unsplash.com/photo-1620714223084-8fcacc6dfd8d?auto=format&fit=crop&w=800&h=1000&q=80",
+    "type": "Premium Report",
+    "publishedAt": "May 2026",
+    "createdAt": "2026-05-15T00:00:00.000Z",
+    "updatedAt": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "id": "r4",
+    "title": "Asia Pacific Energy Market Review",
+    "desc": "Comprehensive analysis of energy trends across the Asia Pacific region.",
+    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=800&h=1000&q=80",
+    "type": "Market Report",
+    "publishedAt": "May 2026",
+    "createdAt": "2026-05-20T00:00:00.000Z",
+    "updatedAt": "2026-05-20T00:00:00.000Z"
+  }
+]

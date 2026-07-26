@@ -1,0 +1,68 @@
+[
+  {
+    "id": "v1",
+    "title": "Energy Transition in the Gulf: A Decade in Review",
+    "duration": "12:48",
+    "image": "https://images.unsplash.com/photo-1542013936693-884638332954?auto=format&fit=crop&w=1200&h=700&q=80",
+    "description": "A comprehensive look at how Gulf states have transformed their energy mix over the past decade.",
+    "category": "Geopolitics",
+    "publishedAt": "Jun 18, 2026",
+    "createdAt": "2026-06-18T00:00:00.000Z",
+    "updatedAt": "2026-06-18T00:00:00.000Z"
+  },
+  {
+    "id": "v2",
+    "title": "Inside Tata Power's Solar Manufacturing Push",
+    "duration": "06:22",
+    "image": "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=600&h=400&q=80",
+    "description": "Exclusive access to Tata Power's new solar panel manufacturing facility in Gujarat.",
+    "category": "Renewables",
+    "publishedAt": "Jun 17, 2026",
+    "createdAt": "2026-06-17T00:00:00.000Z",
+    "updatedAt": "2026-06-17T00:00:00.000Z"
+  },
+  {
+    "id": "v3",
+    "title": "What Refiners Told Us About 2026 Margins",
+    "duration": "08:10",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?auto=format&fit=crop&w=600&h=400&q=80",
+    "description": "Leading refinery executives share their outlook for margins and capacity in 2026.",
+    "category": "Oil & Gas",
+    "publishedAt": "Jun 16, 2026",
+    "createdAt": "2026-06-16T00:00:00.000Z",
+    "updatedAt": "2026-06-16T00:00:00.000Z"
+  },
+  {
+    "id": "v4",
+    "title": "Grid Storage: The New Bottleneck",
+    "duration": "05:54",
+    "image": "https://images.unsplash.com/photo-1620714223084-8fcacc6dfd8d?auto=format&fit=crop&w=600&h=400&q=80",
+    "description": "Why grid-scale battery storage has become the critical constraint in the energy transition.",
+    "category": "Energy Storage",
+    "publishedAt": "Jun 15, 2026",
+    "createdAt": "2026-06-15T00:00:00.000Z",
+    "updatedAt": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "id": "v5",
+    "title": "The Race to Net Zero: Corporate Strategies",
+    "duration": "14:22",
+    "image": "https://images.unsplash.com/photo-1532601224476-15c79f2f7a51?auto=format&fit=crop&w=600&h=400&q=80",
+    "description": "How leading energy companies are structuring their net zero strategies and timelines.",
+    "category": "Sustainability",
+    "publishedAt": "Jun 14, 2026",
+    "createdAt": "2026-06-14T00:00:00.000Z",
+    "updatedAt": "2026-06-14T00:00:00.000Z"
+  },
+  {
+    "id": "v6",
+    "title": "Hydrogen Economics: When Does It Make Sense?",
+    "duration": "09:37",
+    "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=600&h=400&q=80",
+    "description": "A deep dive into the economics of green hydrogen production and the conditions for commercial viability.",
+    "category": "Renewables",
+    "publishedAt": "Jun 13, 2026",
+    "createdAt": "2026-06-13T00:00:00.000Z",
+    "updatedAt": "2026-06-13T00:00:00.000Z"
+  }
+]
