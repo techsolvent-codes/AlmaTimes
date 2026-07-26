@@ -35,6 +35,17 @@ app.use("/api",          require("./routes/misc"));
 // ─── Health Check ─────────────────────────────────────────────────────────────
 app.get("/health", (_req, res) => res.json({ status: "ok", timestamp: new Date().toISOString() }));
 
+// ─── Testing API ──────────────────────────────────────────────────────────────
+app.get("/api/test", (_req, res) => {
+  res.json({
+    status: "ok",
+    message: "Backend API is reachable!",
+    timestamp: new Date().toISOString(),
+    uptime: `${Math.floor(process.uptime())}s`,
+    node: process.version,
+  });
+});
+
 // ─── 404 ─────────────────────────────────────────────────────────────────────
 app.use((_req, res) => res.status(404).json({ error: "Route not found." }));
 
