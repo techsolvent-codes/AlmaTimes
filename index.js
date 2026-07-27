@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 4000;
 
 // ─── Middleware ───────────────────────────────────────────────────────────────
 app.use(cors({
-  origin: ["http://localhost:3000", "http://localhost:5173", "http://localhost:4173", "http://localhost:8081"],
+  origin: ["http://localhost:3000", "http://localhost:5173", "http://localhost:4173", "http://localhost:8081", "alma-times.netlify.app"],
   credentials: true,
 }));
 app.use(express.json());
