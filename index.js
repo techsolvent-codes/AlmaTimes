@@ -57,8 +57,14 @@ app.use((err, _req, res, _next) => {
 });
 
 // ─── Start ────────────────────────────────────────────────────────────────────
-app.listen(PORT, () => {
-  console.log(`\n🚀 EnergDive API running on http://localhost:${PORT}`);
-  console.log(`   Health: http://localhost:${PORT}/health`);
+// app.listen(PORT, () => {
+//   console.log(`\n🚀 EnergDive API running on http://localhost:${PORT}`);
+//   console.log(`   Health: http://localhost:${PORT}/health`);
+//   console.log(`   Admin login: admin@energdive.com / Admin@1234\n`);
+// });
+
+app.listen(PORT, '127.0.0.1', () => {
+  console.log(`\n🚀 EnergDive API running on http://127.0.0.1:${PORT}`);
+  console.log(`   Health: http://127.0.0.1:${PORT}/health`);
   console.log(`   Admin login: admin@energdive.com / Admin@1234\n`);
 });
